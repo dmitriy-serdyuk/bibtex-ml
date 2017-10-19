@@ -1,0 +1,6 @@
+@inproceedings{graves2014towards,
+  title={Towards end-to-end speech recognition with recurrent neural networks},
+  author={Graves, Alex and Jaitly, Navdeep},
+  booktitle={ICML},
+  year={2014}
+}
